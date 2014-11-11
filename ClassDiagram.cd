@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestCpp\client2Dlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EClient" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEKIUEBAEkggQADsCBRYEEAIABEQCACBkggjAIAFACA=</HashCode>
+      <FileName>CppClient\Shared\EClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EClientSocketBase" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEqIUEBAEkggQQLsCBQaUECcADFQDACJkogjHoCHQCA=</HashCode>
+      <FileName>CppClient\Shared\EClientSocketBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EWrapper" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UoCA4AAAAAAUQCAEBjEA6AIAAEIBAAGICgAEGAgAMCQ=</HashCode>
+      <FileName>CppClient\Shared\EWrapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHScrollListBox" Collapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIABAAAAAAABAAAAIAAgAAQAAAAABAAAAAAAAAgAA=</HashCode>
+      <FileName>CppClient\Shared\HScrollListBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shared_ptr&lt;X&gt;" Collapsed="true">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAEAAAAAAAAAgBAQgAAAAAAAICAAAAgAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\shared_ptr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeMsgPair" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAEAAQAAAABAAA=</HashCode>
+      <FileName>CppClient\Shared\TwsSocketClientErrors.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EClientSocket" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAQAAAEAQAAAAAAAAhgQAAhAAAEAACAAA=</HashCode>
+      <FileName>CppClient\src\EClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAcctUpdatesDlg" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACCAEAAAAAAAAABAAAgCAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestCpp\AcctUpdatesDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClient2App" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>TestCpp\client2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClient2Dlg" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UoCD6wEiGaY0wKJGJpEA6UKEE2MFAAW4SqEMuMowtTc=</HashCode>
+      <FileName>TestCpp\client2Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgAccount" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAEACAAQAAAAABAQQQAAAQAAAAEgAAAAAAAAIAA=</HashCode>
+      <FileName>TestCpp\DlgAccount.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgAccountSummary" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQEAAAAAQBAAABgAAAABAABIAAAAAQBAAAAAAAA=</HashCode>
+      <FileName>TestCpp\DlgAccountSummary.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgAlgoParams" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAEABAAAAAAAABgAAAABEAgQAAAAAABBCAAAABA=</HashCode>
+      <FileName>TestCpp\DlgAlgoParams.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgComboLegs" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAABAABQABAABAADAEYAAAACCEAAAASI=</HashCode>
+      <FileName>TestCpp\DlgComboLegs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgConnect" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAACAAAAAAAAAAABACEAABAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestCpp\DlgConnect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgExtOrd" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>aShAHGCZCBIEAwYCKLSbBJqihkhIwyAQEIAWgAAkQQA=</HashCode>
+      <FileName>TestCpp\DlgExtOrd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgFAAllocationInfo" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABACBAAAAABAAAABAAAAABAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>TestCpp\DlgFAAllocationInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgFinancialAdvisor" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAACAAAAAEAEAAABAAAAABAQAEAAAAAAAAIAQAAAA=</HashCode>
+      <FileName>TestCpp\DlgFinancialAdvisor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgLogConfig" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAEAAAAAEAAAABAAAAADAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestCpp\DlgLogConfig.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgMktDepth" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMABAAEAAAAAgABAABAAIAAAAAAAEBIABAAAAAAgAIA=</HashCode>
+      <FileName>TestCpp\DlgMktDepth.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgNewsBulletins" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQCAECAAAAAAAAABAAAiIAAAAAAAEAAAAAABAAAAA=</HashCode>
+      <FileName>TestCpp\DlgNewsBulletins.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgOrder" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NAgwRwEGgIBcQoIZEBgAhABDAmbD+FZACAAEgEACATM=</HashCode>
+      <FileName>TestCpp\DlgOrder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgScanner" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAQAICCSCAUAAAAAtgBAAABEQAaAAwAAAACAgAEAAI=</HashCode>
+      <FileName>TestCpp\DlgScanner.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgSmartComboRoutingParams" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEABAAAEAAgABgAAAABkgAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestCpp\DlgSmartComboRoutingParams.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDlgUnderComp" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAABAABAAAAAAAAQAARAAAAAAAAAgEAI=</HashCode>
+      <FileName>TestCpp\DlgUnderComp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRptFilterDlg" Collapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAACAAAIAAQAAIABACAAABAACAAIEAAQAAAAABAAA=</HashCode>
+      <FileName>TestCpp\RptFilterDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shared_ptr_defs::Use" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABAAAAEAABIAAAAAAAEAAAAAAAgAAAQAAA=</HashCode>
+      <FileName>CppClient\Shared\shared_ptr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CommissionReport" Collapsed="true">
+    <Position X="13.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAIAAAAQAEAAAAAAAAAAgAAAAk=</HashCode>
+      <FileName>CppClient\Shared\CommissionReport.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ComboLeg" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAhAAAAAAAAAAAAAAAAQAAABAAAAAAAAggAAAAEAA=</HashCode>
+      <FileName>CppClient\Shared\Contract.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="UnderComp" Collapsed="true">
+    <Position X="15.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAgAAEAAAAA=</HashCode>
+      <FileName>CppClient\Shared\Contract.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Contract" Collapsed="true">
+    <Position X="15.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIQQAAAAAAAAAAIGAIAgAAEBACCAAAAggIQAAEkAA=</HashCode>
+      <FileName>CppClient\Shared\Contract.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ContractDetails" Collapsed="true">
+    <Position X="17" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIDBACEDCwAAAAABMAAAAAoAGAQBAAABAMApBBAAsCA=</HashCode>
+      <FileName>CppClient\Shared\Contract.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Execution" Collapsed="true">
+    <Position X="10" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABACAAAAAAAACCAIAgAAAAAAAAAAAAgCAJAhAAEAA=</HashCode>
+      <FileName>CppClient\Shared\Execution.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ExecutionFilter" Collapsed="true">
+    <Position X="11.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAACAAAIAAgAAIAAACAAAAAACAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\Execution.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="OrderComboLeg" Collapsed="true">
+    <Position X="15.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\Order.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Order" Collapsed="true">
+    <Position X="13.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>PFsQpCNASaQEICIiQBRNASMIgBIINIIA6ExVSVi8IEU=</HashCode>
+      <FileName>CppClient\Shared\Order.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="OrderState" Collapsed="true">
+    <Position X="17" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAEAAAAAEAAAACEAAAAABEAQAAAAAAAAAQAAAA=</HashCode>
+      <FileName>CppClient\Shared\OrderState.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ScannerSubscription" Collapsed="true">
+    <Position X="11.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIACQAAMAAAAAkCAIAMhACRAAACAAAAAgBAAAAhA=</HashCode>
+      <FileName>CppClient\Shared\ScannerSubscription.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagValue" Collapsed="true">
+    <Position X="13.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\TagValue.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="`anonymous-namespace'::BarData" Collapsed="true">
+    <Position X="10" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIACAACAIAAAAAAAQAAIAAAQAiAAA=</HashCode>
+      <FileName>CppClient\Shared\EClientSocketBaseImpl.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="`anonymous-namespace'::ScanData" Collapsed="true">
+    <Position X="10" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAAQAAAAACAAAAAAAAAEAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>CppClient\Shared\EClientSocketBaseImpl.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="TickerId" Collapsed="true">
+    <Position X="15.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\CommonDefs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="OrderId" Collapsed="true">
+    <Position X="11.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\CommonDefs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ComboLegSPtr" Collapsed="true">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\Contract.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="IBString" Collapsed="true">
+    <Position X="10" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\IBString.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="OrderComboLegSPtr" Collapsed="true">
+    <Position X="1.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\Order.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TagValueSPtr" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\TagValue.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TagValueList" Collapsed="true">
+    <Position X="13.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\TagValue.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TagValueListSPtr" Collapsed="true">
+    <Position X="4.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\TagValue.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="faDataType" Collapsed="true">
+    <Position X="11.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAABAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\CommonDefs.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MarketDataType" Collapsed="true">
+    <Position X="15.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\CommonDefs.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LegOpenClose" Collapsed="true">
+    <Position X="13.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAIAQAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>CppClient\Shared\Contract.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TickType" Collapsed="true">
+    <Position X="10" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SqCAgBVACIsQpIEAEQCAMAKgkCA8gBAMwSAMhgAABCg=</HashCode>
+      <FileName>CppClient\Shared\EWrapper.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Origin" Collapsed="true">
+    <Position X="17" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\Order.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AuctionStrategy" Collapsed="true">
+    <Position X="10" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAQAAgAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CppClient\Shared\Order.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
